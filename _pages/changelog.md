@@ -10,6 +10,18 @@ Here you can find the changelog of BagMate.
 <br>
 
 ### `Latest`
+# **Version 2.0**
+#### What's New
+- The gestures have been unified and aligned with iOS standards. Swipe left to delete, or swipe right to access advanced features
+- All lists have been unified. In standard mode, you can easily access the detail page of an entry by tapping or using swipe gestures. In edit mode, you can directly edit entries in the list to quickly fill and modify them
+- This new gesture allows you to create a link to a list entry and share it with other apps. For example, you can easily switch from your task manager, where you plan and schedule your trip, to the packing list in BagMate
+
+#### Bug Fixes
+- Fixed not recognized purchases
+- Fixed missing translations
+
+<br>
+
 # **Version 1.1**
 #### What's New
 - A new day, a new name. It was just too similar
